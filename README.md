@@ -1,6 +1,6 @@
 # LaneDetection
 
-Basic lane finding program using OpenCV and C++.
+Basic lane finding program using OpenCV and C++. Thanks to all of the data from this repository `ndrplz/self-driving-car`! :)
 
 ## How to use (on Windows)
 
