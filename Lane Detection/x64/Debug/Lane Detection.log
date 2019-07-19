@@ -1,1 +1,6 @@
-﻿  Lane Detection.vcxproj -> C:\Users\aurel\Documents\GitHub\LaneDetection\x64\Debug\Lane Detection.exe
+﻿  LaneDetection.cpp
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(28,29): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(28,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(45,50): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(45,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Lane Detection.vcxproj -> C:\Users\aurel\Documents\GitHub\LaneDetection\x64\Debug\Lane Detection.exe

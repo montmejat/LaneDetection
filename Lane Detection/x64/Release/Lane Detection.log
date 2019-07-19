@@ -7,6 +7,6 @@ C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(4
 C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(45,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 311 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   Lane Detection.vcxproj -> C:\Users\aurel\Documents\GitHub\LaneDetection\x64\Release\Lane Detection.exe

@@ -5,9 +5,17 @@
 using namespace cv;
 using namespace std;
 
-int main()
+int main(int argc, char * argv[])
 {
-	string file("data/test_images/solidYellowLeft.jpg");
+	string file;
+	if (argc == 2)
+	{
+		file = string(argv[1]);
+	}
+	else
+	{
+		file = string("data/test_images/solidYellowLeft.jpg");
+	}
 
 	Mat image;
 	image = imread(file.c_str(), IMREAD_COLOR);

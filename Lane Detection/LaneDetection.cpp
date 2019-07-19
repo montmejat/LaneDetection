@@ -92,15 +92,15 @@ void findLanes(Mat image)
 	
 	vector<Point> points;
 	points.push_back(Point(50, HEIGHT));
-	points.push_back(Point(450, 310));
-	points.push_back(Point(490, 310));
+	points.push_back(Point(440, 325));
+	points.push_back(Point(500, 325));
 	points.push_back(Point(WIDTH - 50, HEIGHT));
 	vector<vector<Point>> verticles;
 	verticles.push_back(points);
 	crop(original, out, verticles);
 
 	cvtColor(out, out, COLOR_RGB2BGR);
-	imwrite("out/out.jpg", out);
+	imwrite("out.jpg", out);
 }
 
 void crop(Mat original, Mat out, vector<vector<Point>> vertices)
