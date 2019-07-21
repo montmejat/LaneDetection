@@ -1,12 +1,13 @@
 ﻿  LaneDetection.cpp
-C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(28,29): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(28,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(45,50): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(29,29): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(29,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(46,50): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(46,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
   Line.cpp
   Main.cpp
-C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(45,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Documents\GitHub\LaneDetection\Lane Detection\LaneDetection.cpp(114,18): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 349 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   Lane Detection.vcxproj -> C:\Users\aurel\Documents\GitHub\LaneDetection\x64\Release\Lane Detection.exe
